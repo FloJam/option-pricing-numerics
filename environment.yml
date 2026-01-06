@@ -1,0 +1,12 @@
+name: option-pricing
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - numpy
+  - matplotlib
+  - python-lsp-server
+  - jupyterlab-lsp
+  - yfinance
+prefix: /home/jd/miniconda3/envs/option-pricing
